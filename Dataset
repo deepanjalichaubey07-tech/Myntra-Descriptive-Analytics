@@ -1,0 +1,51 @@
+Product_ID	Product_Name	Category	Gender	Listed_Price_INR	Price_Band	Collection_Date
+P01	Men T-Shirt Listing 01	Men T-Shirts	Men	720	700-999	2026-07-29
+P02	Men T-Shirt Listing 02	Men T-Shirts	Men	155	Under 400	2026-07-29
+P03	Men T-Shirt Listing 03	Men T-Shirts	Men	542	400-699	2026-07-29
+P04	Men T-Shirt Listing 04	Men T-Shirts	Men	626	400-699	2026-07-29
+P05	Men T-Shirt Listing 05	Men T-Shirts	Men	606	400-699	2026-07-29
+P06	Men T-Shirt Listing 06	Men T-Shirts	Men	616	400-699	2026-07-29
+P07	Men T-Shirt Listing 07	Men T-Shirts	Men	555	400-699	2026-07-29
+P08	Men T-Shirt Listing 08	Men T-Shirts	Men	268	Under 400	2026-07-29
+P09	Men T-Shirt Listing 09	Men T-Shirts	Men	619	400-699	2026-07-29
+P10	Men T-Shirt Listing 10	Men T-Shirts	Men	682	400-699	2026-07-29
+P11	Men Shirt Listing 01	Men Shirts	Men	1319	1000-1499	2026-07-20
+P12	Men Shirt Listing 02	Men Shirts	Men	949	700-999	2026-07-20
+P13	Men Shirt Listing 03	Men Shirts	Men	766	700-999	2026-07-20
+P14	Men Shirt Listing 04	Men Shirts	Men	923	700-999	2026-07-20
+P15	Men Shirt Listing 05	Men Shirts	Men	1134	1000-1499	2026-07-20
+P16	Men Shirt Listing 06	Men Shirts	Men	890	700-999	2026-07-20
+P17	Men Shirt Listing 07	Men Shirts	Men	1016	1000-1499	2026-07-20
+P18	Men Shirt Listing 08	Men Shirts	Men	741	700-999	2026-07-20
+P19	Men Shirt Listing 09	Men Shirts	Men	1166	1000-1499	2026-07-20
+P20	Men Shirt Listing 10	Men Shirts	Men	1094	1000-1499	2026-07-20
+P21	Women Top Listing 01	Women Tops	Women	860	700-999	2026-07-29
+P22	Women Top Listing 02	Women Tops	Women	131	Under 400	2026-07-29
+P23	Women Top Listing 03	Women Tops	Women	221	Under 400	2026-07-29
+P24	Women Top Listing 04	Women Tops	Women	653	400-699	2026-07-29
+P25	Women Top Listing 05	Women Tops	Women	219	Under 400	2026-07-29
+P26	Women Top Listing 06	Women Tops	Women	510	400-699	2026-07-29
+P27	Women Top Listing 07	Women Tops	Women	288	Under 400	2026-07-29
+P28	Women Top Listing 08	Women Tops	Women	524	400-699	2026-07-29
+P29	Women Top Listing 09	Women Tops	Women	668	400-699	2026-07-29
+P30	Women Top Listing 10	Women Tops	Women	623	400-699	2026-07-29
+P31	Women Jean Listing 01	Women Jeans	Women	1414	1000-1499	2026-07-29
+P32	Women Jean Listing 02	Women Jeans	Women	924	700-999	2026-07-29
+P33	Women Jean Listing 03	Women Jeans	Women	832	700-999	2026-07-29
+P34	Women Jean Listing 04	Women Jeans	Women	954	700-999	2026-07-29
+P35	Women Jean Listing 05	Women Jeans	Women	655	400-699	2026-07-29
+P36	Women Jean Listing 06	Women Jeans	Women	728	700-999	2026-07-29
+P37	Women Jean Listing 07	Women Jeans	Women	720	700-999	2026-07-29
+P38	Women Jean Listing 08	Women Jeans	Women	861	700-999	2026-07-29
+P39	Women Jean Listing 09	Women Jeans	Women	554	400-699	2026-07-29
+P40	Women Jean Listing 10	Women Jeans	Women	513	400-699	2026-07-29
+P41	Women Heel Listing 01	Women Heels	Women	1333	1000-1499	2026-07-23
+P42	Women Heel Listing 02	Women Heels	Women	619	400-699	2026-07-23
+P43	Women Heel Listing 03	Women Heels	Women	969	700-999	2026-07-23
+P44	Women Heel Listing 04	Women Heels	Women	601	400-699	2026-07-23
+P45	Women Heel Listing 05	Women Heels	Women	638	400-699	2026-07-23
+P46	Women Heel Listing 06	Women Heels	Women	991	700-999	2026-07-23
+P47	Women Heel Listing 07	Women Heels	Women	911	700-999	2026-07-23
+P48	Women Heel Listing 08	Women Heels	Women	1331	1000-1499	2026-07-23
+P49	Women Heel Listing 09	Women Heels	Women	1116	1000-1499	2026-07-23
+P50	Women Heel Listing 10	Women Heels	Women	1047	1000-1499	2026-07-23
